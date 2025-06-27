@@ -150,5 +150,8 @@
   "collective": {
     "type": "opencollective",
     "url": "https://opencollective.com/goober"
+  },
+  "dependencies": {
+    "yarn": "^1.22.22"
   }
 }
